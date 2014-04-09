@@ -1,6 +1,8 @@
 # Assignment 01
 
 ### Summary
+For the next few assignments we will build a simple catalog/store/social network thing. YOU get to decide what type of data you actually want to work with. Think of entities that could be sortable, adhere to a consistent organizational structure, and would be fun to work with. Like books, animals, movies, people, vacation spots, etc...
+
 In this assignment you will flex your JSON manipulation muscles and build some souped up functions. 
 After this assignment you should feel comfortable working in JSON and creating functions.
 
@@ -19,12 +21,12 @@ Use the included index.html and megaJSON.js file to complete the assignment.
 Note: The format of the printed output is up to you, just make sure you cover both requirements.
 
 ### Grading
-- Proper Assignment structure - 1pt
-- Stringified JSON Object - 3pts
-- megaParse Function - 4pts
-- Proper output and usage - 2pts
+- Proper Assignment structure - 10pts
+- Stringified JSON Object - 30pts
+- megaParse Function - 40pts
+- Proper output and usage - 20pts
 
-Total 10pts.
+Total 100pts.
 
 ### Submission
 This assignment is due 5/14 by 3:30pm PST.
