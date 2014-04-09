@@ -13,8 +13,7 @@ Use the included index.html and megaJSON.js file to complete the assignment.
     1. Takes one parameter, a string
     2. Parses the given string into a javascript object using JSON.parse()
     3. Prints to the console the following information (use console.log()):
-        1. Number of properties
-        2. Each property with it's value in sentence form (ie. "The name property has the value of rock")
+        1. Each property with it's value in sentence form (ie. "The name property has the value of rock")
     4. Finally, it returns the parsed javascript object.
 3. Below all that use megaParse on your stringified object and ensure the results print out to the console.
 
